@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListaClientes</string>
+    <string name="lista_de_clientes">Lista de Clientes</string>
+    <string name="adicionar_cliente">ADICIONAR CLIENTE</string>
+    <string name="cadastrar_cliente">Cadastrar Cliente</string>
+    <string name="nome">Nome:</string>
+    <string name="email">Email:</string>
+    <string name="fone">Fone:</string>
+    <string name="adicionar">Adicionar</string>
+</resources>
